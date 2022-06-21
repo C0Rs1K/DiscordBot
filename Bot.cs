@@ -22,29 +22,6 @@ public class Bot
 
 public class CommandsModule : BaseCommandModule
 {
-    [Command("писюн")]
-    public async Task SpecialCommand(CommandContext ctx)
-    {
-        var rng = new Random();
-
-        if (ctx.User.Username == "ДЕБОШИР")
-        {
-            await ctx.RespondAsync($"У {ctx.User.Username} писюн {rng.NextInt64() % 3} см, лох");
-        }
-        else
-        {
-            if (ctx.User.Username == "отёбитесь")
-            {
-                await ctx.RespondAsync("https://media.discordapp.net/attachments/734870621439393843/819993283107094608/ezgif-2-8a0cd51d3549.gif");
-            }
-            else
-            {
-                await ctx.RespondAsync($"У {ctx.User.Username} писюн {rng.NextInt64() % 30} см");
-            }
-        }
-    }
-
-
     [Command("price")]
     public async Task PriceCommand(CommandContext ctx, [RemainingText] string currencyName)
     {

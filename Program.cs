@@ -2,6 +2,8 @@
 using DSharpPlus;
 using Microsoft.Extensions.Configuration;
 
+var provider = new PriceProvider();
+
 var source = new CancellationTokenSource();
 
 var config = new  ConfigurationBuilder()

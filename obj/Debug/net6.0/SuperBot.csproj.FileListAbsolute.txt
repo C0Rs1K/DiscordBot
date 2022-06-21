@@ -29,3 +29,6 @@
 /Users/egor/Projects/SuperBot/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/egor/Projects/SuperBot/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/egor/Projects/SuperBot/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/egor/Projects/SuperBot/bin/Debug/net6.0/DSharpPlus.CommandsNext.dll
+/Users/egor/Projects/SuperBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/egor/Projects/SuperBot/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll

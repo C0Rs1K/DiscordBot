@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4GJEeWOSRzjEQK8Ombg1m3SsYQhoBot36izlTNXRXvln0BhHtZjlf+IlqNeaYdNyBN83k2WyNbQn7HzhvnUhtw==",
+  "dgSpecHash": "rJ8BMO70XIEQ2jB948xclu1TLUgwNMb4PgANPIQ/HI8iY1vFv+Ovc3rnD8BmL2LtsN67l1gRUfGfyMdcpZJocQ==",
   "success": true,
   "projectFilePath": "/Users/egor/Projects/SuperBot/SuperBot.csproj",
   "expectedPackageFiles": [
     "/Users/egor/.nuget/packages/dsharpplus/4.3.0-nightly-01146/dsharpplus.4.3.0-nightly-01146.nupkg.sha512",
+    "/Users/egor/.nuget/packages/dsharpplus.commandsnext/4.2.0/dsharpplus.commandsnext.4.2.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/emzi0767.common/2.6.2/emzi0767.common.2.6.2.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
@@ -12,6 +13,8 @@
     "/Users/egor/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.configuration.usersecrets/6.0.1/microsoft.extensions.configuration.usersecrets.6.0.1.nupkg.sha512",
+    "/Users/egor/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/egor/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "/Users/egor/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",

@@ -42,6 +42,10 @@
               "target": "Package",
               "version": "[4.3.0-nightly-01146, )"
             },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.Extensions.Configuration.Binder": {
               "target": "Package",
               "version": "[6.0.0, )"
